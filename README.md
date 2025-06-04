@@ -1,5 +1,5 @@
 # Linux
-## DIT IS VAN ADJANI. DOE ERMEE WAT JE WILT
+##. DOE ERMEE WAT JE WILT
 
 1. GEBRUIKERS & GROEPEN
 Gebruiker aanmaken
